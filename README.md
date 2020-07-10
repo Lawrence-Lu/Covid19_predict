@@ -6,7 +6,7 @@ contest-Link:https://www.kaggle.com/c/covid19-global-forecasting-week-1/leaderbo
  Random Forest & XGBoost modle: https://www.kaggle.com/luyoucong/kernel5e2f66a189?scriptVersionId=37994059
   
   P.S: PR Modle 最终版本为4，结果为
-  Private:1.98311 Public:0.85008
+ Private:1.98311 Public:0.85008
   
   RandomForest版本为1，结果为：
    Private:3.95793 Public:1.99277 需要较大改进——思路是在特征工程上
